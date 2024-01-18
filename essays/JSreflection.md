@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: "JavaScript reflection"
+# All dates must be YYYY-MM-DD format!
+date: 2023-01-17
+published: true
+labels:
+  - Engineering
+---
 As the new semester begins, a new set of challenges are brought about. This time, it is to learn the Javascript language (among other things), something which I am almost completely unfamiliar with with the exception of hacking in Minecraft years ago. As a first impression, it seemed nearly identical to many other languages in syntax with some minor changes, however it also brought a new way of approaching functions. 
 
 First, I am someone who took many algorithms classes because of my major, many of the lessons in the introduction were very similar to algorithms I have already learned before. However, it got me used to some of the tools that Javascript gives compared to languages like Java or C. For example, simple things like nested loops are all too familiar to me, where the only difference would be instead of defining the iteration integer with int, we use let. For these reasons, at least the first set of 113 problems were relatively easy and the ES6 posing a significantly harder challenge. 
