@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/percolates-yes.png
+image: img/percolates-no edited.png
 title: "EE602 Percolation Lab"
 date: 2023
 published: true
