@@ -16,7 +16,8 @@ This project was from my EE602 Algorithms class. To summarize, we implement so t
 
 In this project I learned about testing edge cases and Java. I haven't used Java much in recent times so it gave me a lot of practice with it and I learned a lot of new functions which I haven't known about before. I also haven't used IntelliJ before so I got a decent idea of how it worked from this project.
 
-The following information is from the Princeton Percolation assignment on [coursera]https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
+The following information is from the Princeton Percolation assignment on 
+<a href="https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php"><i class="large github icon "></i>mattmk/EE602 Percolation Lab</a>
 
 Percolation. Given a composite systems comprised of randomly distributed insulating and metallic materials: what fraction of the materials need to be metallic so that the composite system is an electrical conductor? Given a porous landscape with water on the surface (or oil below), under what conditions will the water be able to drain through to the bottom (or the oil to gush through to the surface)? Scientists have defined an abstract process known as percolation to model such situations.
 
