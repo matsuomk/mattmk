@@ -8,7 +8,7 @@ published: true
 labels:
   - microfabrication
   - microfluidics
-  - -microscopy
+  - microscopy
 summary: "Vertically Integrated Project at UH Manoa"
 ---
 The following information can be found at the UH website: https://manoa.hawaii.edu/uh-vip/project/micro-vip/
