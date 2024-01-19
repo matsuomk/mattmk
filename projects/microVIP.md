@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Microrobot_1.png
 title: "microVIP"
-date: 2023
+date: 2023-present
 published: true
 labels:
   - microfabrication
