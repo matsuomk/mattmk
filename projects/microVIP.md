@@ -17,7 +17,7 @@ In this project, me and my subteam is responsible for making a microchannel whic
 
 Last semester, I learned about water flow calculations, how to use PDMS to make microchannels, how to use the LPKF laser machine to make circuit boards, and how to take measurements using an impedance analyzer. This experience taught me a lot about those things, as well as giving me a glimpse of how a project might be run if I were working for a company. Our advisor, Dr. Aaron Ohta, taught us how a project might develop such as interviewing/surveying people for product ideas, making a project proposal (which might be used to get funding from the company or investors and whatnot), as well as doing weekly presentations to explain progress and future plans. We also created a video to explain what we did as well as wrote a final report.
 
-The following information can be found at the [UH website]https://manoa.hawaii.edu/uh-vip/project/micro-vip/
+The following information can be found at the <a href="https://manoa.hawaii.edu/uh-vip/project/micro-vip/"><i class="large github icon "></i>UH website</a>
 
 Goals:
 Design and implementation of microfabricated systems for engineering and healthcare applications, including microfluidic systems, optically controlled microrobots, and cell analysis technologies.
@@ -26,7 +26,7 @@ Key elements:
 Microfabrication, microfluidics, microscopy, optical systems, image processing, machine learning, computer vision, path planning, feedback control systems
 
 Research issues:
-Our research group has developed optically controlled microrobots, which are tetherless sub-millimeter actuators. The microrobots can be used to move around objects that are less than a millimeter in size. These microrobots can be used to pattern cells in specific locations, which enables studies on cell-to-cell communications, and can give insight into treating various diseases. Videos of the UH microrobots in action can be found here: [link]http://www.youtube.com/user/mnmlab
+Our research group has developed optically controlled microrobots, which are tetherless sub-millimeter actuators. The microrobots can be used to move around objects that are less than a millimeter in size. These microrobots can be used to pattern cells in specific locations, which enables studies on cell-to-cell communications, and can give insight into treating various diseases. Videos of the UH microrobots in action can be found here: <a href="http://www.youtube.com/user/mnmlab"><i class="large github icon "></i>link</a>
 
 We are also working on various projects that utilize microfabricated devices and systems, including systems that can encapsulate single cells into droplets, deep learning systems for cell analysis, and others.
 
