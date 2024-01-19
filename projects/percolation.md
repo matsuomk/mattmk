@@ -14,7 +14,7 @@ summary: "Project for EE602 Algorithms class"
 ---
 This project was from my EE602 Algorithms class. To summarize, we implement so that we can figure out if the grid/array percolates. Percolation is where water can travel through a path from top to bottom, meaning we must check that there is a path of open tiles from the top row to the bottom row. When that is implemented, we must run tests to determine the site vacancy probability (which should be about 0.593).
 
-In this project I learned about testing edge cases and Java. I haven't used Java much in recent times so it gave me a lot of practice with it and I learned a lot of new functions which I haven't known about before. I also haven't used IntelliJ before so I got a decent idea of how it worked from this project.
+In this project I learned about testing edge cases and Java. I haven't used Java much in recent times so it gave me a lot of practice with it and I learned a lot of new functions which I haven't known about before. I also haven't used IntelliJ before so I got a decent idea of how it worked from this project. As this was a solo project for my class, I was responsible for everything.
 
 The following information is from the Princeton Percolation assignment on 
 <a href="https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php"><i class="large github icon "></i>coursera</a>
