@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "https://github.com/matsuomk/mattmk/" },
-      { "network": "linkedin", "username": "matthew matsuo", "url": "www.linkedin.com/in/matthewmatsuo" },
-      { "network": "instagram", "username": "matthewmlol", "url": "http://instagram.com/matthewmlol" }
+      { "network": "linkedin", "username": "matthew matsuo", "url": "www.linkedin.com/in/matthewmatsuo" }
     ]
   },
   "interests": [
