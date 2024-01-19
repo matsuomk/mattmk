@@ -6,8 +6,9 @@ title: "microVIP"
 date: 2023
 published: true
 labels:
-  - AutoCAD
-  - Impedance analysis
+  - microfabrication
+  - microfluidics
+  - -microscopy
 summary: "Vertically Integrated Project at UH Manoa"
 ---
 The following information can be found at the UH website: https://manoa.hawaii.edu/uh-vip/project/micro-vip/
