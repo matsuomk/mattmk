@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "JavaScript reflection"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-17
+date: 2024-01-17
 published: true
 labels:
   - Engineering
