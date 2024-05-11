@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Design Patterns are useful without knowing it"
 # All dates must be YYYY-MM-DD format!
-date: 2023-04-25
+date: 2024-04-25
 published: true
 labels:
   - Engineering
