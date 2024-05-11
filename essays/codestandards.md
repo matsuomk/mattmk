@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Coding Standards are Dumb"
 # All dates must be YYYY-MM-DD format!
-date: 2023-02-08
+date: 2024-02-08
 published: true
 labels:
   - Coding Standards
