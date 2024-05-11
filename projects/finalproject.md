@@ -18,4 +18,4 @@ The project my group worked on is Clubs at Manoa. The goal is to make a site whi
 
 <img class="img-fluid" src="../img/Screen Shot 2024-05-10 at 10.00.16 PM.png">
 
-<a href="https://clubs-at-manoa.github.io/"><i class="large github icon "></i>Organization Page</a>
+<a href="https://github.com/Clubs-At-Manoa"><i class="large github icon "></i>Organization Page</a>
