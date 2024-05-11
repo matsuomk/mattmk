@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "What was the point of this class"
+title: "Why did I learn Software Engineering?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-10
 published: true
